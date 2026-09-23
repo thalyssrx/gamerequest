@@ -3,3 +3,5 @@ node_modeules/
 test-results/
 playwright-report/
 *.log
+.DS_Store
+Thumbs.db
